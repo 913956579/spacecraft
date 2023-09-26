@@ -3,4 +3,6 @@ Control Barrier Functions in Sampled-Data Systems [IEEE Control Systems Letters2
 spacecraft [github](https://github.com/spacelab-ufsc/acs)  
 SpacecraftAttitudeControl_Template_python [Github](https://github.com/Joshua-Protoss/SpacecraftAttitudeControl_Template)  
 SpaceX-Dragon-mpc (交会) [Github](https://github.com/elena-ecn/SpaceX-Dragon-mpc)  
+rl-spacecraft-attitude-control [github](https://github.com/yuji-astro/rl-spacecraft-attitude-control)  
+
 
