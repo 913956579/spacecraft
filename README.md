@@ -7,6 +7,7 @@ SpaceX-Dragon-mpc (交会) [Github](https://github.com/elena-ecn/SpaceX-Dragon-m
 rl-spacecraft-attitude-control [github](https://github.com/yuji-astro/rl-spacecraft-attitude-control)  
  (交会)Learning Approximate Forward Reachable Sets Using Separating Kernels [github](https://github.com/unm-hscl/ajthor-ortiz-L4DC2021)  
  Fault Tolerant Neural Control Barrier Functions for Robotic Systems under Sensor Faults and Attacks [ICRA 2024](https://github.com/hongchaozhang-hz/ftncbf)  
- Chance Constrained Stochastic Optimal Control for Linear Systems with a Time Varying Random Control Matrix [arxiv 2023](https://github.com/unm-hscl/shawnpriore-random-control)
-
+ Chance Constrained Stochastic Optimal Control for Linear Systems with a Time Varying Random Control Matrix [arxiv 2023](https://github.com/unm-hscl/shawnpriore-random-control)  
+ ## spacecraft Attitude Control
+Model-Predictive Attitude Control for Flexible Spacecraft During Thruster Firings [Github](https://github.com/RoboticExplorationLab/FlexibleSpacecraftMPC)
 
